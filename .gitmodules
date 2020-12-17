@@ -1,0 +1,16 @@
+[submodule "include/raffer/language"]
+	path = include/raffer/language
+	url = https://github.com/PaulRaffer/raffer_cpplib-language
+	branch = cpp11
+[submodule "include/raffer/system"]
+	path = include/raffer/system
+	url = https://github.com/PaulRaffer/raffer_cpplib-system
+	branch = cpp11
+[submodule "include/raffer/nested"]
+	path = include/raffer/nested
+	url = https://github.com/PaulRaffer/raffer_cpplib-nested
+	branch = cpp11
+[submodule "include/raffer/finally"]
+	path = include/raffer/finally
+	url = https://github.com/PaulRaffer/raffer_cpplib-finally
+	branch = cpp11
