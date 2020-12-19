@@ -9,7 +9,7 @@
 [submodule "include/raffer/nested"]
 	path = include/raffer/nested
 	url = https://github.com/PaulRaffer/raffer_cpplib-nested
-	branch = cpp11
+	branch = cpp17
 [submodule "include/raffer/finally"]
 	path = include/raffer/finally
 	url = https://github.com/PaulRaffer/raffer_cpplib-finally
@@ -26,3 +26,27 @@
 	path = include/raffer/operators
 	url = https://github.com/PaulRaffer/raffer_cpplib-operators
 	branch = cpp14
+[submodule "include/raffer/container"]
+	path = include/raffer/container
+	url = https://github.com/PaulRaffer/raffer_cpplib-container
+	branch = cpp17
+[submodule "include/raffer/logic"]
+	path = include/raffer/logic
+	url = https://github.com/PaulRaffer/raffer_cpplib-logic
+	branch = cpp17
+[submodule "include/raffer/overload_set"]
+	path = include/raffer/overload_set
+	url = https://github.com/PaulRaffer/raffer_cpplib-overload_set
+	branch = cpp17
+[submodule "include/raffer/regex"]
+	path = include/raffer/regex
+	url = https://github.com/PaulRaffer/raffer_cpplib-regex
+	branch = cpp17
+[submodule "include/raffer/string"]
+	path = include/raffer/string
+	url = https://github.com/PaulRaffer/raffer_cpplib-string
+	branch = cpp17
+[submodule "include/raffer/switch"]
+	path = include/raffer/switch
+	url = https://github.com/PaulRaffer/raffer_cpplib-switch
+	branch = cpp17
