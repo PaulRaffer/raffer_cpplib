@@ -14,3 +14,15 @@
 	path = include/raffer/finally
 	url = https://github.com/PaulRaffer/raffer_cpplib-finally
 	branch = cpp11
+[submodule "include/raffer/fraction"]
+	path = include/raffer/fraction
+	url = https://github.com/PaulRaffer/raffer_cpplib-fraction
+	branch = cpp14
+[submodule "include/raffer/number_theory"]
+	path = include/raffer/number_theory
+	url = https://github.com/PaulRaffer/raffer_cpplib-number_theory
+	branch = cpp14
+[submodule "include/raffer/operators"]
+	path = include/raffer/operators
+	url = https://github.com/PaulRaffer/raffer_cpplib-operators
+	branch = cpp14
