@@ -21,7 +21,7 @@
 [submodule "include/raffer/number_theory"]
 	path = include/raffer/number_theory
 	url = https://github.com/PaulRaffer/raffer_cpplib-number_theory
-	branch = cpp14
+	branch = cpp20
 [submodule "include/raffer/operators"]
 	path = include/raffer/operators
 	url = https://github.com/PaulRaffer/raffer_cpplib-operators
@@ -33,7 +33,7 @@
 [submodule "include/raffer/logic"]
 	path = include/raffer/logic
 	url = https://github.com/PaulRaffer/raffer_cpplib-logic
-	branch = cpp17
+	branch = cpp20
 [submodule "include/raffer/overload_set"]
 	path = include/raffer/overload_set
 	url = https://github.com/PaulRaffer/raffer_cpplib-overload_set
@@ -50,3 +50,7 @@
 	path = include/raffer/switch
 	url = https://github.com/PaulRaffer/raffer_cpplib-switch
 	branch = cpp17
+[submodule "include/raffer/color"]
+	path = include/raffer/color
+	url = https://github.com/PaulRaffer/raffer_cpplib-color
+	branch = cpp20
